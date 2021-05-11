@@ -1,9 +1,10 @@
 body
 {
-    background-color: rgb(206, 224, 38);
+    background-color: brown;
+    text-decoration: cornflowerblue;
 }
 
 h1
 {
-    background-color:brown;
+    background-color:rgb(9, 255, 0);
 }
