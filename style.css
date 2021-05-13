@@ -2,9 +2,12 @@ body
 {
     background-color: pink;
     text-decoration:violet;
+    font-size: large;
+    font-style: oblique;
 }
 
 h1
 {
     background-color:rgb(9, 255, 0);
+    color: tomato;
 }
